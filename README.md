@@ -17,7 +17,6 @@ Currently, two official plugins are available:
 
 * [React](https://react.dev/) 
 * [Bootsrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 
-* [Open Weather Map API](https://openweathermap.org/api) 
 
  ## Requirements
 
